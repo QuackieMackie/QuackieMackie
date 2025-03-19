@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm QuackieMackie</h1>
+<h1 align="center">QuackieMackie</h1>
 <h3 align="center">I'm a passion project developer that creates things out of curiosity.</h3>
 
 ---
@@ -19,11 +19,4 @@
 </p>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quackiemackie&show_icons=true&locale=en&layout=compact&theme=radical" alt="quackiemackie" />
-</div>
-
----
-
-<h3 align="left">GitHub Stats: </h3>
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quackiemackie&theme=radical" alt="quackiemackie" />
 </div>
