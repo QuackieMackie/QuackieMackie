@@ -1,9 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B69FD5&width=300&height=30&lines=Hey!+I'm+QuackieMackie+:D;Welcome+to+my+github+:)" alt="Title"/>
-</h1>
-<h3 align="center" style="margin-top: -30px; color:#DBC2EE;">I'm a passion project developer that creates things out of curiosity.</h3>
-
----
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B69FD5&width=300&height=30&lines=Hey!+I'm+QuackieMackie+:D;Welcome+to+my+github+:)" alt="Title"/></h1>
 
 <h3 align="center" style="color:#B69FD5;">Languages and Tools I've used before:</h3>
 <p align="center">
