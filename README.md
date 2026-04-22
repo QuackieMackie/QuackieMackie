@@ -2,7 +2,7 @@
 
 <h3 align="center">Languages and Tools I've used before:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,mysql,sqlite,postgres,nodejs,js,css,html,cs&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,python,docker,mysql,sqlite,postgres,nodejs,js,css,html,cs,php&theme=dark" alt="Skills"/>
 </p>
 
 <div align="center">
